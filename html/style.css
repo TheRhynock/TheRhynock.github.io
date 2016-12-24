@@ -1,0 +1,87 @@
+/* Open Sans, Raleway, Indie Flower, Open Sans Condensed, Josefin Slab, Cinzel, Tangerine, Nothing You Could Do */
+/* Color Palette: Adrift in Dreams
+#CFF09E #A8DBA8 #79BD94 #39BD9A #0B8686 */
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Indie+Flower|Josefin+Slab|Nothing+You+Could+Do|Open+Sans|Open+Sans+Condensed:300|Raleway|Tangerine');
+
+body {
+	background-color: #0B8686;
+}
+
+.f6 {
+	font-family: 'Cinzel';
+	font-size: 30px;
+	text-align: center;
+	color: #CFF09E;
+	background-color: #39BD94;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #79BD94;
+	padding: 10px;
+	margin: 50px;
+}
+
+a
+ {
+	color: #CFF09E;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #0B8686;
+}
+.container {
+	color: #CFF09E;
+	font-size: 30px;
+	text-align: center;
+	background-color: #39BD9A;
+	padding: 10px;
+	margin: 50px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #79BD94;
+}
+
+.fakenews {
+	font-family: 'Raleway';
+	color: #CFF09E;
+	font-size: 15px;
+	text-align: center;
+	background-color: #39BD9A;
+	padding: 10px;
+	margin: 50px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #79BD94;
+}
+.f1 {
+	font-family: 'Open Sans';
+}
+
+.f2{
+	font-family: 'Raleway';
+}
+
+.f3 {
+	font-family: 'Indie Flower';
+}
+
+.f4 {
+	font-family: 'Opne Sans Condensed';
+}
+
+.f5 {
+	font-family: 'Josenfin Slab';
+}
+
+.f9 {
+	font-family: 'Cinzel';
+}
+
+.f7 {
+	font-family: 'Tangerine';
+}
+
+.f8 {
+	font-family: 'Nothing You Could Do';
+}
