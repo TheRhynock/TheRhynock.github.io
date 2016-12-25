@@ -5,107 +5,56 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Indie+Flower|Josefin+Slab|Nothing+You+Could+Do|Open+Sans|Open+Sans+Condensed:300|Raleway|Tangerine');
 
 body {
-	background-color: #0B8686;
+	background-image: url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
 }
 
 .topTitle {
-	font-family: 'Cinzel';
-	color: #CFF09E;
-	font-size: 30px;
+	font-family: Open Sans;
+	font-size: 40px;
 	text-align: center;
-	background-color: #39BD9A;
-	padding: 10px;
-	margin: 50px;
-	border-style: solid;
-	border-width: 5px;
-	border-color: #79BD94;
-
-
+	background: #fff;
+	opacity: 0.6;
+	margin-right: 250px;
+	margin-left: 250px;
 }
 
-a
- {
-	color: #CFF09E;
+nav {
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	background: #fff;
+	opacity: 0.6;
+	margin-right: 250px;
+	margin-left: 250px;
+	word-spacing: 30px;
+}
+
+a:visited, a:link, a:active {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
 	text-decoration: none;
+    color: #0B8686;
 }
 
-a:hover, a:active {
-	color: #0B8686;
-}
-.container {
-	color: #CFF09E;
-	font-size: 30px;
+article {
+	font-family: Open Sans;
+	font-size: 10px;
 	text-align: center;
-	background-color: #39BD9A;
+	background: #fff;
+	opacity: 0.6;
+	margin-right: 125px;
+	margin-left: 125px;
 	padding: 10px;
-	margin: 50px;
-	border-style: solid;
-	border-width: 5px;
-	border-color: #79BD94;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
-.fakenews {
-	font-family: 'Raleway';
-	color: #CFF09E;
-	font-size: 15px;
-	text-align: center;
-	background-color: #39BD9A;
-	padding: 10px;
-	margin: 50px;
-	border-style: solid;
-	border-width: 5px;
-	border-color: #79BD94;
-}
-.f1 {
-	font-family: 'Open Sans';
+.title {
+	font-size: 20px;
 }
 
-.f2{
-	font-family: 'Raleway';
-}
-
-.f3 {
-	font-family: 'Indie Flower';
-	font-size: 25px;
-	text-align: center;
-	color: #CFF09E;
-	background-color: #39BD9A;
-	margin: 0px 200px -10px 200px;
-	border-style: solid;
-	border-width: 5px;
-	border-color: #79BD94;
-}
-
-.f4 {
-	font-family: 'Opne Sans Condensed';
-}
-
-.f5 {
-	font-family: 'Josenfin Slab';
-}
-
-.f9 {
-	font-family: 'Cinzel';
-}
-
-.f7 {
-	font-family: 'Tangerine';
-}
-
-.f8 {
-	font-family: 'Nothing You Could Do';
-}
-
-.f10 {
-	border-style: solid;
-	border-width: 5px;
-	border-color: #79BD94;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-
-}
-
-.f11 {
-	font-family: 'Indie Flower';
+.content {
+	font-size: 12px;
 }
